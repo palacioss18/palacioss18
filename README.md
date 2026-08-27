@@ -7,7 +7,7 @@ Backend Developer focused on building scalable financial and banking systems usi
 ### 🚀 About Me
 
 - 🎓 Computer Science / Software Engineering Student
-- 💻 Currently building core banking APIs, transaction engines, and investment systems
+- 💻 I am currently building core banking APIs, transaction engines, and investment systems.
 - 📚 Continuous learner focused on backend architecture, OOP, database design, and data structures
 
 ---
