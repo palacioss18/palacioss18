@@ -17,7 +17,8 @@ Backend Developer focused on building scalable financial and banking systems usi
 - **Languages:** C#, SQL, T-SQL, C++
 - **Backend & Frameworks:** .NET, Web API, Entity Framework
 - **Databases:** SQL Server
-- **Tools & Systems:** Git, GitHub, Visual Studio
+- **Operating Systems:** Windows, Linux
+- **Tools:** Git, GitHub, Visual Studio
 
 ---
 
