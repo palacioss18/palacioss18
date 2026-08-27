@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Jose Palacios 👋
 
-<!--
-**palacioss18/palacioss18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer focused on building scalable financial and banking systems using **C#**, **.NET**, and **SQL Server**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+- 🎓 Computer Science / Software Engineering Student
+- 💻 Currently building core banking APIs, transaction engines, and investment systems
+- 📚 Continuous learner focused on backend architecture, OOP, database design, and data structures
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+- **Languages:** C#, C++, SQL, T-SQL
+- **Backend & Frameworks:** .NET, Web API, Entity Framework
+- **Databases:** SQL Server
+- **Tools & Systems:** Git, GitHub, Visual Studio
+
+---
+
+### 📬 Connect with Me
+
+- **Email:** josepaalaacioss@gmail.com
+- **Location:** Buenos Aires, Argentina
