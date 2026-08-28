@@ -1,6 +1,16 @@
-# Hi there, I'm Jose Palacios 👋
+<div align="center">
 
-Backend Developer focused on building scalable financial and banking systems using **C#**, **.NET**, and **SQL Server**.
+<pre align="center">
+       _  ____   _____ ______   _____  ___  _        _    ____ ___ ___  ____  
+      | |/ __ \ / ____|  ____| |  __ \|  _ \| |      / \  / ___|_ _/ _ \/ ___| 
+  _   | | |  | | (___ | |__    | |__) | |_) | |     / _ \| |    | | | | \___ \ 
+ | |__| | |__| |\___ \|  __|   |  ___/|  _ <| |___ / ___ \ |___ | | |_| |___) |
+  \____/ \____/ |_____/|____|  |_|    |_| \_\_____/_/   \_\____|___\___/____/ 
+</pre>
+
+# Jose Palacios
+
+**Backend Developer focused on building scalable financial and banking systems using C#, .NET, and SQL Server**
 
 ---
 
