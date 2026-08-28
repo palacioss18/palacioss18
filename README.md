@@ -56,7 +56,4 @@
 
 ---
 
-### 📬 Connect with Me
 
-- **Email:** josepaalaacioss@gmail.com
-- **Location:** Buenos Aires, Argentina
