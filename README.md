@@ -16,7 +16,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josepaalaacioss@gmail.com)
-[![Location](https://img.shields.io/badge/%F0%9F%93%8D_BUENOS_AIRES,_ARGENTINA-2D3748?style=for-the-badge)](#)
+[![Location](https://img.shields.io/badge/%F0%9F%93%8D_PILAR,BUENOS_AIRES,_ARGENTINA-2D3748?style=for-the-badge)](#)
 
 </div>
 
