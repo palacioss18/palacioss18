@@ -1,5 +1,4 @@
-<div align="center">
-
+<div align="center" translate="no" class="notranslate">
 <pre align="center">
        _  ____   _____ ______   _____    _    _        _    ____ ___ ___  ____  
       | |/ __ \ / ____|  ____| |  __ \  / \  | |      / \  / ___|_ _/ _ \/ ___| 
