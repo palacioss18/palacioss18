@@ -68,15 +68,15 @@
 
 ### 📌 Featured Projects
 
-#### 🏦 Banking & Transfer System
-- **Stack:** C# | .NET | SQL Server | Entity Framework Core
-- **Overview:** Core backend service designed to process transaction engines, manage ledger accounts, and enforce ACID compliance for balance transfers.
-- 🔗 [View Repository](https://github.com/palacioss18) <!-- Reemplaza con el link directo a tu repo -->
+#### 🏦 FinCore - Core Banking API
+- **Stack:** C# | .NET Core | SQL Server | Entity Framework Core
+- **Overview:** Main core banking backend service engineered to process transactional workflows, manage customer ledger accounts, enforce ACID compliance, and handle balance transfers via REST APIs.
+- 🔗 [View Repository](https://github.com/palacioss18) <!-- Reemplaza con el link directo al repo de FinCore -->
 
-#### 📊 Algorithms & Data Structures
-- **Stack:** C++ | Data Structures | OOP
-- **Overview:** Implementations of custom data structures, memory management, and algorithmic optimization techniques.
-- 🔗 [View Repository](https://github.com/palacioss18) <!-- Reemplaza con el link directo a tu repo -->
+#### 💸 Banking Transfer System
+- **Stack:** C# | .NET | SQL Server | Entity Framework Core
+- **Overview:** Transactional backend service designed to handle peer-to-peer balance transfers, audit logging, and account state management with database-level consistency.
+- 🔗 [View Repository](https://github.com/palacioss18) <!-- Reemplaza con el link directo al repo del sistema de transferencias -->
 
 ---
 
