@@ -64,6 +64,37 @@
 
 ---
 
+---
+
+### 📌 Featured Projects
+
+#### 🏦 Banking & Transfer System
+- **Stack:** C# | .NET | SQL Server | Entity Framework Core
+- **Overview:** Core backend service designed to process transaction engines, manage ledger accounts, and enforce ACID compliance for balance transfers.
+- 🔗 [View Repository](https://github.com/palacioss18) <!-- Reemplaza con el link directo a tu repo -->
+
+#### 📊 Algorithms & Data Structures
+- **Stack:** C++ | Data Structures | OOP
+- **Overview:** Implementations of custom data structures, memory management, and algorithmic optimization techniques.
+- 🔗 [View Repository](https://github.com/palacioss18) <!-- Reemplaza con el link directo a tu repo -->
+
+---
+
+### ⚙️ Engineering Principles & Focus
+
+- 🏗️ **Architecture:** Clean Architecture, Layered Systems, and Separation of Concerns.
+- 🗄️ **Databases:** Relational database modeling, query optimization, and transaction handling in SQL Server.
+- 🧪 **Code Quality:** Strong Object-Oriented Design (OOD), SOLID principles, and continuous refactoring.
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=palacioss18&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Jose's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=palacioss18&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</div>
+
 ### 🌐 Spoken Languages
 
 - **Spanish:** Native
