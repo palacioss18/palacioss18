@@ -71,12 +71,12 @@
 #### 🏦 FinCore - Core Banking API
 - **Stack:** C# | .NET Core | SQL Server | Entity Framework Core
 - **Overview:** Main core banking backend service engineered to process transactional workflows, manage customer ledger accounts, enforce ACID compliance, and handle balance transfers via REST APIs.
-- 🔗 [View Repository](https://github.com/palacioss18) <!-- Reemplaza con el link directo al repo de FinCore -->
+- 🔗 [View Repository](https://github.com/palacioss18/FinCore-Banking-API) <!-- Reemplaza con el link directo al repo de FinCore -->
 
 #### 💸 Banking Transfer System
 - **Stack:** C# | .NET | SQL Server | Entity Framework Core
 - **Overview:** Transactional backend service designed to handle peer-to-peer balance transfers, audit logging, and account state management with database-level consistency.
-- 🔗 [View Repository](https://github.com/palacioss18) <!-- Reemplaza con el link directo al repo del sistema de transferencias -->
+- 🔗 [View Repository](https://github.com/palacioss18/bank-transfers-system) <!-- Reemplaza con el link directo al repo del sistema de transferencias -->
 
 ---
 
