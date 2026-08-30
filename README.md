@@ -91,8 +91,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=palacioss18&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Jose's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=palacioss18&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=palacioss18&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Jose's GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=palacioss18&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </div>
 
 ### 🌐 Spoken Languages
