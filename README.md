@@ -7,7 +7,7 @@
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/jose-palacios-b2757a369)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-palacios-b2757a369)
 [![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josepaalaacioss@gmail.com)
 [![Location](https://img.shields.io/badge/%F0%9F%93%8D_PILAR%2C%20BUENOS%20AIRES%2C%20ARGENTINA-2D3748?style=for-the-badge)](#)
 
